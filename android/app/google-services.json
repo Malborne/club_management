@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53526102067",
+    "firebase_url": "https://club-management-flutter.firebaseio.com",
+    "project_id": "club-management-flutter",
+    "storage_bucket": "club-management-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53526102067:android:db718caa08e89e5e832346",
+        "android_client_info": {
+          "package_name": "com.ibrahim.club_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53526102067-rnhm1pcs7co8egr6l1k2jnrkeuikt1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPs5OYdIFvUwXO06GgDEFx5omkkzafiqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53526102067-rnhm1pcs7co8egr6l1k2jnrkeuikt1ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
